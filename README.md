@@ -1,4 +1,4 @@
-# CSCourseWork-MS
+# CSCourseWork-MS (Alevel)
 CS Coursework 2022
 This is my Computer Coursework for the 2022 exams, my coursework revolves around using the py game libary in order to work.
 The game which I choose to make is done in homage to flappy bird which holds a special place for me in terms of computer science.
